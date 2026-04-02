@@ -14,16 +14,7 @@ const puzzles = [
     id: 'p9',
     type: 'code',
     title: '⚡ Elektriciteit in het dagelijks leven',
-    prompt: 'Rummy009 sluit een klein elektrisch apparaat aan op een stopcontact.
-
-Op het typeplaatje van het apparaat staat dat het 20 watt aan elektrisch vermogen gebruikt. Het apparaat werkt op een spanning van 10 volt.
-
-Rummy009 weet dat bij elektriciteit geldt: Vermogen (P) = spanning (U) × stroomsterkte (I).
-
-Hij wil graag weten hoeveel stroom er door het apparaat loopt om te controleren of het veilig is aangesloten.
-
-Vraag: Hoe groot is de stroomsterkte in ampère?',
-    answer: '2'
+    prompt: 'Rummy009 sluit een klein elektrisch apparaat aan op een stopcontact.Op het typeplaatje van het apparaat staat dat het 20 watt aan elektrisch vermogen gebruikt. Het apparaat werkt op een spanning van 10 volt.Rummy009 weet dat bij elektriciteit geldt: Vermogen (P) = spanning (U) × stroomsterkte (I). Hij wil graag weten hoeveel stroom er door het apparaat loopt om te controleren of het veilig is aangesloten. Hoe groot is de stroomsterkte in ampère?',answer: '2'
  }
 ];
 function startGame(){
