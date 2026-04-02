@@ -1,0 +1,1 @@
+Full escape game — wrong answers cost 30 seconds.
